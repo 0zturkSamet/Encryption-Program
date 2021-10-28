@@ -15,7 +15,7 @@ public class EncryptionProgram {
 	private char character;
 	private String line;
 	private char[] letters;
-	private char[] secretLetters;
+	
 
 	EncryptionProgram() {
 		scanner = new Scanner(System.in);
